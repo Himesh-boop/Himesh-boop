@@ -59,20 +59,16 @@ I believe the best developers aren't just people who know how to write code, but
 
 ---
 
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always open to connecting with fellow developers, exchanging ideas, learning new things, and collaborating on interesting projects.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/Himesh-boop](https://github.com/Himesh-boop)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/Himesh-boop">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-\<p align="center">
-&#x20; \<i>"Stay curious. Keep building. Never stop learning."\</i>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)" />
-\</p>
