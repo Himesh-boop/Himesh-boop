@@ -1,15 +1,15 @@
-# Hey, I'm Himesh! 👋
+# Hey, I'm Himesh! 
 
-### 💻 Engineering Student | Developer | Tech Enthusiast
+### Engineering Student | Developer | Tech Enthusiast
 
 > *"I don't just want to use technology. I want to understand how it works, build with it, and use it to make a difference."*
 
 I'm an engineering student passionate about **software development, artificial intelligence, and understanding the inner workings of computers.**
 
-- 🔭 Currently exploring **Artificial Intelligence, Machine Learning & Systems Programming**
-- 🚀 I love turning curious ideas into practical projects
-- 🌱 Constantly learning, experimenting, and improving
-- 🎯 Long-term goal: Build technology that makes a meaningful difference in people's lives
+- Currently exploring **Artificial Intelligence, Machine Learning & Systems Programming**
+- I love turning curious ideas into practical projects
+- Constantly learning, experimenting, and improving
+- Long-term goal: Build technology that makes a meaningful difference in people's lives
 
 ---
 
@@ -57,13 +57,13 @@ I'm an engineering student passionate about **software development, artificial i
 
 ---
 
-## 🚀 Things I've Been Building
+##  Things I've Been Building
 
 *A collection of projects where curiosity meets engineering.*
 
 <br/>
 
-### 🧠 Freud — AI-Powered Mental Health Support
+###  Freud — AI-Powered Mental Health Support
 
 > Exploring the intersection of artificial intelligence and human well-being.
 
@@ -78,7 +78,7 @@ An LLM-powered conversational support application designed to provide empathetic
 
 ---
 
-### 📈 Stock Market Simulator
+###  Stock Market Simulator
 
 > Bringing financial data and software engineering together.
 
@@ -93,7 +93,7 @@ A desktop application built to simulate stock market activities, featuring portf
 
 ---
 
-### 👕 AI-Powered Fashion Search
+###  AI-Powered Fashion Search
 
 > Making visual product discovery smarter.
 
@@ -114,7 +114,7 @@ An intelligent fashion discovery system that uses computer vision and deep learn
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always open to connecting with fellow developers, exchanging ideas, learning new things, and collaborating on interesting projects.
 
