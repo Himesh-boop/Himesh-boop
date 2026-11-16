@@ -17,15 +17,15 @@ I'm an engineering student passionate about **software development, artificial i
 
 ### Languages
 
-\<p> \<img src="[https://skillicons.dev/icons?i=cpp,c,python,java,dart,js](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js)" /> \</p>
+\<p> \<img src="[https://skillicons.dev/icons?i=cpp,c,python,java,dart,js](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js)" /> </p>
 
 ### Development & Frameworks
 
-\<p> \<img src="[https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css)" /> \</p>
+\<p> \<img src="[https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css)" /> </p>
 
 ### AI / Machine Learning & Data
 
-\<p> \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" /> \</p>
+\<p> \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" /> </p>
 
 ### Tools & Platforms
 
@@ -52,19 +52,6 @@ Experimenting with computer vision, deep learning embeddings and similarity-base
 **⚡ Simulated AI Hardware Accelerator Driver**
 
 Exploring the relationship between operating systems, hardware interfaces and AI accelerators through software-based hardware simulation.
-
----
-
-## 📊 My GitHub Journey
-
-\<p align="center">
-\<img src="[https://github-readme-stats.vercel.app/api?username=Himesh-boop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Himesh-boop\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" height="165" />
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-boop&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-boop\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
-\</p>
-
-\<p align="center">
-\<img src="[https://streak-stats.demolab.com?user=Himesh-boop&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Himesh-boop\&theme=tokyonight\&hide_border=true)" />
-\</p>
 
 ---
 I believe the best developers aren't just people who know how to write code, but people who never stop asking **why**.
