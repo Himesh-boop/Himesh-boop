@@ -15,21 +15,21 @@ I'm an engineering student passionate about **software development, artificial i
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### 💻 Programming Languages
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=cpp,c,python,java,dart,js&theme=dark](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js\&theme=dark)" /> \</p>
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js)
 
-### Development & Frameworks
+### ⚙️ Development & Frameworks
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css&theme=dark](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css\&theme=dark)" /> \</p>
+![Frameworks](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css)
 
-### AI / Machine Learning & Data
+### 🤖 AI / Machine Learning
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn\&theme=dark)" /> \</p>
+![AI Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite\&theme=dark)" /> \</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite)
 
 ---
 
