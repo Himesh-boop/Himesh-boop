@@ -17,19 +17,19 @@ I'm an engineering student passionate about **software development, artificial i
 
 ### Languages
 
-\<p> \<img src="[https://skillicons.dev/icons?i=cpp,c,python,java,dart,js](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js)" /> </p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=cpp,c,python,java,dart,js&theme=dark](https://skillicons.dev/icons?i=cpp,c,python,java,dart,js\&theme=dark)" /> \</p>
 
 ### Development & Frameworks
 
-\<p> \<img src="[https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css)" /> </p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css&theme=dark](https://skillicons.dev/icons?i=flutter,qt,react,nodejs,html,css\&theme=dark)" /> \</p>
 
 ### AI / Machine Learning & Data
 
-\<p> \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" /> </p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn\&theme=dark)" /> \</p>
 
 ### Tools & Platforms
 
-\<p> \<img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite)" /> \</p>
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,firebase,mysql,sqlite\&theme=dark)" /> \</p>
 
 ---
 
@@ -54,17 +54,25 @@ Experimenting with computer vision, deep learning embeddings and similarity-base
 Exploring the relationship between operating systems, hardware interfaces and AI accelerators through software-based hardware simulation.
 
 ---
+
 I believe the best developers aren't just people who know how to write code, but people who never stop asking **why**.
+
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always open to connecting with fellow developers, exchanging ideas, learning new things, and collaborating on interesting projects.
 
-\<p align="center"> \<a href="[https://github.com/Himesh-boop](https://github.com/Himesh-boop)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \</p>
-
-\<p align="center"> \<i>"Stay curious. Keep building. Never stop learning."\</i> \</p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/Himesh-boop](https://github.com/Himesh-boop)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 \<p align="center">
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)" />
+&#x20; \<i>"Stay curious. Keep building. Never stop learning."\</i>
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)" />
 \</p>
